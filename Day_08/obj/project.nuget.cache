@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ay44y3E/t9WpSXXE8QE3P9wbTm6sXKNPAuH2DBu1u4iSaMl9owyz2lmrdipS41qvubVjG/P6URDv+oiopu4IGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BrianSchnapp\\source\\repos\\advent-of-code-2022\\Day_08\\Day_08.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BrianSchnapp\\.nuget\\packages\\fsharp.core\\6.0.2\\fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
